@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("초기 설정");
 		System.out.println("branch_test에서 작업");
 		System.out.println("메인에서 수정");
+		System.out.println("branch_test에서 수정");
 	}
 
 }
